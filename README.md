@@ -1,2 +1,4 @@
-# wids_cali_kmeans
-Breve ejemplo de segmentación de clientes con k-means
+# Ejemplo con k-means
+
+Breve ejemplo de segmentación de clientes con k-means para la conferencia WiDS Cali.
+
